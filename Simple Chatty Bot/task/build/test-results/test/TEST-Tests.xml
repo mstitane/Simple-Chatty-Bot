@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-11T08:12:49" hostname="PC-STITANE" time="0.16">
+<testsuite name="Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-08T09:23:27" hostname="PC-STITANE" time="0.168">
   <properties/>
-  <testcase name="start" classname="Tests" time="0.16"/>
+  <testcase name="start" classname="Tests" time="0.168"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
 Hello! My name is Aid.
